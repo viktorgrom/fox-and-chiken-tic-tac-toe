@@ -1,4 +1,4 @@
-package com.molfar.foxandchiken;
+package com.hrestuku.foxandchiken;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.molfar.foxandchiken;
+package com.hrestuku.foxandchiken;
 
 import org.junit.Test;
 

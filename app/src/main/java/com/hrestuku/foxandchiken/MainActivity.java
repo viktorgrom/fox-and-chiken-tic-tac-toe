@@ -1,11 +1,10 @@
-package com.molfar.foxandchiken;
+package com.hrestuku.foxandchiken;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -59,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                         winner = "Winner is Fox";
                         gameFinish(winner);
                     } else if (active == 0){
-                        winner = "Winner is Chiken";
+                        winner = "Winner is Chicken";
                         gameFinish(winner);
                     }
                 } else if (isTied()
